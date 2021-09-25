@@ -1,0 +1,34 @@
+body{
+    font-family: 'Stick No Bills', sans-serif;
+    background-color: rgb(161, 255, 148);
+}
+.header_div{
+background-color:deepskyblue;
+color: rgb(142, 36, 218);
+}
+.header_div p{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+    color: rgb(126, 56, 7);
+    letter-spacing: 2px;
+    font-size: 22px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Anton', sans-serif;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    bottom: 0;
+    color: whitesmoke;
+    width: 100%;
+    font-size: 18px;
+    background-color: rgb(255, 0, 191);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px cornsilk;
+}
+
